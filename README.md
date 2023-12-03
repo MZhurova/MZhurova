@@ -5,7 +5,7 @@
 В настоящий момент работаю Manual + Automation Engineer, стек: 1С, web и API.</br> 
 Автоматизирую программные продукты 1С, используя Vanessa-Automation</br>
 
-В 2024 году планирую переход на Automation Engineer web и API на Python.</br>
+В 2024 году планирую переход на должность Automation Engineer web и API на Python.</br>
 
 ### Образование
 <table width="100%" border='0'>
