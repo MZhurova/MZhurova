@@ -38,5 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 Тестирование логистического веб-сервиса <a target="_blank" href="[https://boxberry.ru]">Boxberry</a>
 
+<a href="https://toplogos.ru/logo-boxberry/" target="_blank"><img src="https://toplogos.ru/images/thumbs/preview-logo-boxberry.png"  alt="Логотип Boxberry" /></a>
+
 ## Тестирование UI
 
