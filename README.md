@@ -36,9 +36,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Дипломный проект
 
-Тестирование логистического веб-сервиса <a target="_blank" href="[https://boxberry.ru]">Boxberry</a>
+Тестирование логистического веб-сервиса <a target="_blank" href="https://boxberry.ru">Boxberry</a>
 
-<a href="https://toplogos.ru/logo-boxberry/" target="_blank"><img src="https://toplogos.ru/images/thumbs/preview-logo-boxberry.png"  alt="Логотип Boxberry" /></a>
+<a href="https://boxberry.ru/" target="_blank"><img src="https://toplogos.ru/images/thumbs/preview-logo-boxberry.png"  alt="Логотип Boxberry" /></a>
 
 ## Тестирование UI
 
