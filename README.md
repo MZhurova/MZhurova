@@ -10,10 +10,10 @@
 ### Образование
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom">QA GURU</br></br><img src="design/images/qaquru.png" width="60"></br>Осень 2023 года - по настоящее время</td><td valign="middle">Автоматизация тестироавния на Python</td></tr>
-    <td width="30%" valign="bottom">Томский государственный университет систем управления и радиоэлектроники</br></br><img src="design/images/tusur.jpg" width="60"></br>2022 год</td><td valign="middle">Автоматизация тестироавния на на Java</td></tr>
-    <td width="30%" valign="bottom">Томский государственный университет систем управления и радиоэлектроники</br></br><img src="design/images/tusur.jpg" width="60"></br>2021 год</td><td valign="middle">Тестирование и контроль качества программного обеспечения</td></tr>
-    <td width="30%" valign="bottom">Томский государственный университет систем управления и радиоэлектроники</br></br><img src="design/images/tusur.jpg" width="60"></br>2009 - 2015 год</td><td valign="middle">Программное обеспечение ВТ и АСУ</td></tr>
+    <td width="30%" valign="bottom">QA GURU</br></br><img src="design/images/qaquru.png" width="200"></br>Осень 2023 года - по настоящее время</td><td valign="middle">Автоматизация тестироавния на Python</td></tr>
+    <td width="30%" valign="bottom">Томский государственный университет систем управления и радиоэлектроники</br></br><img src="design/images/tusur.jpg" width="100"></br>2022 год</td><td valign="middle">Автоматизация тестироавния на на Java</td></tr>
+    <td width="30%" valign="bottom">Томский государственный университет систем управления и радиоэлектроники</br></br><img src="design/images/tusur.jpg" width="100"></br>2021 год</td><td valign="middle">Тестирование и контроль качества программного обеспечения</td></tr>
+    <td width="30%" valign="bottom">Томский государственный университет систем управления и радиоэлектроники</br></br><img src="design/images/tusur.jpg" width="100"></br>2009 - 2015 год</td><td valign="middle">Программное обеспечение ВТ и АСУ</td></tr>
     <td width="30%" valign="bottom">Юргинский техникум информационных технологий и права</br></br><img src="design/images/ytmiit.png" width="200"></br>2005 - 2009 год</td><td valign="middle">Вычислительные машины, комплексы, системы и сети</td></tr>
    </tr>
   </table>
