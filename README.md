@@ -1,5 +1,5 @@
 ## Всем добро пожаловать! :cherry_blossom:
-Меня зовут Мария. Я QA Engineer.</br>
+**Меня зовут Мария. Я QA Engineer.**</br>
 
 Начала работать с осени 2014 года в качестве QA Manual Engineer.</br>
 В настоящий момент работаю Manual + Automation Engineer, стек: 1С, web и API.</br> 
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Дипломный проект
 
-Тестирование логистического веб-сервиса <a target="_blank" href="https://boxberry.ru">Boxberry</a>
+### Тестирование логистического веб-сервиса:
 
 <a href="https://boxberry.ru/" target="_blank"><img src="https://toplogos.ru/images/thumbs/preview-logo-boxberry.png"  alt="Логотип Boxberry" /></a>
 
