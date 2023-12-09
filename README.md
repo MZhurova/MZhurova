@@ -42,4 +42,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Тестирование UI
 
-Тестовый проект: <a target="_blank" href="[https://github.com/MZhurova/qa_guru_python_8_15](https://github.com/MZhurova/qa_guru_python_8_15">Boxberry</a></br></br>
+Тестовый проект: <a target="_blank" href="https://github.com/MZhurova/qa_guru_python_8_15">Boxberry</a></br></br>
